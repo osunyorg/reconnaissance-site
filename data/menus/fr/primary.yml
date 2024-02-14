@@ -17,4 +17,8 @@ items:
   target: "/organisations/"
   kind: page
   children: []
+- title: La maison d'éditions
+  target: "/la-maison-deditions/"
+  kind: page
+  children: []
 
