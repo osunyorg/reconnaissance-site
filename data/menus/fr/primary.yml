@@ -13,4 +13,8 @@ items:
   target: "/la-maison-deditions/"
   kind: page
   children: []
+- title: L'amour à...
+  target: "/collections/lamour-a/"
+  kind: page
+  children: []
 
