@@ -21,4 +21,8 @@ items:
   target: "/collections/mythes-au-feminin/"
   kind: page
   children: []
+- title: Rédemptions
+  target: "/collections/redemptions/"
+  kind: page
+  children: []
 
