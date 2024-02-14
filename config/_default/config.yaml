@@ -7,3 +7,6 @@ params:
     position: hero
   search:
     active: false  
+  seo:
+    title:
+      separator: "_"
