@@ -5,30 +5,36 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
   children: []
+  path: "/events"
   file: content/fr/events/_index.html
 - title: La maison d'éditions
   target: "/la-maison-deditions/"
   kind: page
   children: []
+  path: "/pages/la-maison-deditions"
   file: content/fr/pages/la-maison-deditions/_index.html
 - title: L'amour à...
   target: "/collections/lamour-a/"
   kind: page
   children: []
+  path: "/pages/collections/lamour-a"
   file: content/fr/pages/collections/lamour-a/_index.html
 - title: Mythes au féminin
   target: "/collections/mythes-au-feminin/"
   kind: page
   children: []
+  path: "/pages/collections/mythes-au-feminin"
   file: content/fr/pages/collections/mythes-au-feminin/_index.html
 - title: Rédemptions
   target: "/collections/redemptions/"
   kind: page
   children: []
+  path: "/pages/collections/redemptions"
   file: content/fr/pages/collections/redemptions/_index.html
 
