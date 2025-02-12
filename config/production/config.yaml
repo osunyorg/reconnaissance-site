@@ -2,6 +2,11 @@
 
 baseURL: https://site.reconnaissance.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 7b2f08b7-51b0-4977-b113-a636fea6c219
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
