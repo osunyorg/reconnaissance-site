@@ -15,10 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/lamour-a/"
+from = "/lamour-a/index.html"
 to = "/collections/lamour-a/"
 
 [[redirects]]
-from = "/lamour-a-saint-jean-de-luz/"
+from = "/lamour-a-saint-jean-de-luz/index.html"
 to = "/collections/lamour-a/lamour-a-saint-jean-de-luz/"
 
